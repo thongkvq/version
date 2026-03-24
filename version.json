@@ -1,0 +1,5 @@
+{
+  "version": "1.21",
+  "changelog": "1. Bỏ tùy chọn tìm kiếm theo dòng, thêm bộ lọc theo thời gian.\n2. Fix theme sáng/tối.\n3. Bố trí lại bố cục nút [Lưu sự cố vào Excel] hợp lý hơn.\n4. Cho phép thay đổi kích thước cửa sổ phù hợp các laptop độ phân giải thấp.\n5. Xử lý lỗi không chạy được ở nhiều môi trường khác nhau.\n6. Xử lý bug danh mục dữ liệu không cập nhật mới được.\n7. Xử lý lưu danh mục dữ liệu trên jsonbin.io để đảm bảo dữ liệu sau mỗi cập nhật thay đổi ở mỗi máy tính khác nhau, hạn chế cập nhật liên tục để tránh tốn token không cần thiết.\n8. Fix các lỗi về chọn nhân viên, tối ưu thuật toán tăng tốc xử lý.\n9. Xử lý lỗi enter nhanh nhiều lần tại tab (Công việc trong ca).\n10. Các công tác có kế hoạch thì không bắt buộc chọn loại sự cố.\n11. chỗ (SL TBA mất) chỉ cho nhập số (1,2,3...).\n12. (Nhóm lỗi) đã khóa lại chỉ hiển thị và không edit được.",
+  "download_url": "https://drive.google.com/uc?export=download&id=1pJkAGB5ggmm3NyUOgnTDkSPO8QHnaw3v"
+}
